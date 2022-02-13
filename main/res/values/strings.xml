@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Authentication App Using fireBase</string>
+    <string name="password">pass</string>
+    <string name="username">us</string>
+    <string name="new_to_here_please_register">register</string>
+    <string name="already_have_account_login">login</string>
+</resources>
